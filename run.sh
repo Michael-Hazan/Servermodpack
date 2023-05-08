@@ -1,0 +1,1 @@
+screen -S minecraftServer -m bash startserver.sh
